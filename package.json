@@ -1,0 +1,14 @@
+{
+  "name": "api-hltv",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:Yagasaki7K/api-hltv.git",
+  "author": "Anderson Marlon <anderson18.marlon@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "dev": "node index.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
